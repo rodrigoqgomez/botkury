@@ -1,0 +1,9 @@
+requests
+httpx
+beautifulsoup4
+python-telegram-bot==20.8
+playwright
+Faker
+cloudscraper
+fake-useragent
+curl-cffi
