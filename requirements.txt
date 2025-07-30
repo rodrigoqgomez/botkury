@@ -10,3 +10,4 @@ curl-cffi
 aiofiles
 pyTelegramBotAPI
 aiohttp-socks
+colorama
