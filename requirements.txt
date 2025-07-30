@@ -8,3 +8,4 @@ cloudscraper
 fake-useragent
 curl-cffi
 aiofiles
+pyTelegramBotAPI
