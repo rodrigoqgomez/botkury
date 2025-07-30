@@ -123,7 +123,7 @@ from fake_useragent import UserAgent
 
 
 # Configuración del bot de Telegram
-TOKEN_ID = "8100331928:AAGO6_xdpBxx2h4zbjNmx9Sin0QLb9PHhzA"
+TOKEN_ID = "7975654740:AAEBwtrpnX2lP381_tLv4nybMpcVP0ryZlM"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TOKEN_ID}/sendMessage"
 import unicodedata
 
@@ -177,8 +177,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # Inicializar el bot con el token
-bot = Bot(token="8100331928:AAGO6_xdpBxx2h4zbjNmx9Sin0QLb9PHhzA")
-application = Application.builder().token("8100331928:AAGO6_xdpBxx2h4zbjNmx9Sin0QLb9PHhzA").build()
+bot = Bot(token="7975654740:AAEBwtrpnX2lP381_tLv4nybMpcVP0ryZlM")
+application = Application.builder().token("7975654740:AAEBwtrpnX2lP381_tLv4nybMpcVP0ryZlM").build()
 
 
 import time
