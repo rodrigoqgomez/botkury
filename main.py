@@ -6115,8 +6115,6 @@ thread_pool = ThreadPoolExecutor(max_workers=30)
 # Diccionario de comandos
 COMMAND_FUNCTIONS = {
     "em": esim,
-    "end": BraintreeAuthWoo.payflof,
-      # ← Aquí está el truco
     "th": authstripe,
     "c": comandoc,
     "ccs": comandoccs,
