@@ -7,3 +7,4 @@ Faker
 cloudscraper
 fake-useragent
 curl-cffi
+aiofiles
